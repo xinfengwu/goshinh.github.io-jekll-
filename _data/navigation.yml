@@ -9,8 +9,8 @@ main:
   - title: "GridviewTest"
     url: /gridview/
     
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -19,14 +19,18 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-courses:
-  - title: Getting Started
+IT-Primary-1-version4:
+  - title: 第1册
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
+      - title: "第1课"
+        url: /_posts/courses/00-IT-Primary-1-version4/Lesson1.md 
+      - title: "第2课"
         url: /docs/structure/
-      - title: "Installation"
+      - title: "第3课"
         url: /docs/installation/
-      - title: "Upgrading"
+      - title: "第4课"
+        url: /docs/upgrading/
+      - title: "第5课"
+        url: /docs/upgrading/
+      - title: "第6课"
         url: /docs/upgrading/
