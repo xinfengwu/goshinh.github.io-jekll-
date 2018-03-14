@@ -19,7 +19,7 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-IT-Primary-1-version4:
+ITPLevel1:
   - title: 第1册
     children:
       - title: "第1课"
