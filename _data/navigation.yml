@@ -4,10 +4,6 @@ main:
     url: /courses-development/
   - title: "关于我"
     url: /aboutme/
-  - title: "所教课程"
-    url: /courses/
-  - title: "GridviewTest"
-    url: /gridview/
     
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
