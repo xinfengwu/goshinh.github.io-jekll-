@@ -23,147 +23,147 @@ ITPLevel:
   - title: 第1册
     children:
       - title: "第1课 xxx"
-        url: /courses/00-IT-Primary-1-version4/Lesson1/
+        url: /courses/01-IT-Primary-1-version4/Lesson1/
       - title: "第2课 xxx"
-        url: /courses/00-IT-Primary-1-version4/Lesson2/
+        url: /courses/01-IT-Primary-1-version4/Lesson2/
       - title: "第3课 xxx"
-        url: /courses/00-IT-Primary-1-version4/Lesson3/
+        url: /courses/01-IT-Primary-1-version4/Lesson3/
       - title: "第4课 xxx"
-        url: /courses/00-IT-Primary-1-version4/Lesson4/
+        url: /courses/01-IT-Primary-1-version4/Lesson4/
       - title: "单元小结 xxx"
-        url: /courses/00-IT-Primary-1-version4/UnitSummary1/
+        url: /courses/01-IT-Primary-1-version4/UnitSummary1/
       - title: "第5课 xxx"
-        url: /courses/00-IT-Primary-1-version4/Lesson5/
+        url: /courses/01-IT-Primary-1-version4/Lesson5/
       - title: "第6课 xxx"
-        url: /courses/00-IT-Primary-1-version4/Lesson6/
+        url: /courses/01-IT-Primary-1-version4/Lesson6/
       - title: "第7课 xxx"
-        url: /courses/00-IT-Primary-1-version4/Lesson7/
+        url: /courses/01-IT-Primary-1-version4/Lesson7/
       - title: "第8课 xxx"
-        url: /courses/00-IT-Primary-1-version4/Lesson8/
+        url: /courses/01-IT-Primary-1-version4/Lesson8/
       - title: "第9课 xxx"
-        url: /courses/00-IT-Primary-1-version4/Lesson9/
+        url: /courses/01-IT-Primary-1-version4/Lesson9/
       - title: "第10课 xxx"
-        url: /courses/00-IT-Primary-1-version4/Lesson10/
+        url: /courses/01-IT-Primary-1-version4/Lesson10/
       - title: "单元小结 xxx"
-        url: /courses/00-IT-Primary-1-version4/UnitSummary2/
+        url: /courses/01-IT-Primary-1-version4/UnitSummary2/
       - title: "第11课 xxx"
-        url: /courses/00-IT-Primary-1-version4/Lesson11/
+        url: /courses/01-IT-Primary-1-version4/Lesson11/
       - title: "第12课 xxx"
-        url: /courses/00-IT-Primary-1-version4/Lesson12/
+        url: /courses/01-IT-Primary-1-version4/Lesson12/
       - title: "第13课 xxx"
-        url: /courses/00-IT-Primary-1-version4/Lesson13/
+        url: /courses/01-IT-Primary-1-version4/Lesson13/
       - title: "第14课 xxx"
-        url: /courses/00-IT-Primary-1-version4/Lesson14/
+        url: /courses/01-IT-Primary-1-version4/Lesson14/
       - title: "单元小结 xxx"
-        url: /courses/00-IT-Primary-1-version4/UnitSummary3/
+        url: /courses/01-IT-Primary-1-version4/UnitSummary3/
   - title: 第2册
     children:
       - title: "第1课 xxx"
-        url: /courses/00-IT-Primary-2-version4/Lesson1/
+        url: /courses/02-IT-Primary-2-version4/Lesson1/
       - title: "第2课 xxx"
-        url: /courses/00-IT-Primary-2-version4/Lesson2/
+        url: /courses/02-IT-Primary-2-version4/Lesson2/
       - title: "第3课 xxx"
-        url: /courses/00-IT-Primary-2-version4/Lesson3/
+        url: /courses/02-IT-Primary-2-version4/Lesson3/
       - title: "第4课 xxx"
-        url: /courses/00-IT-Primary-2-version4/Lesson4/
+        url: /courses/02-IT-Primary-2-version4/Lesson4/
       - title: "单元小结 xxx"
-        url: /courses/00-IT-Primary-2-version4/UnitSummary1/
+        url: /courses/02-IT-Primary-2-version4/UnitSummary1/
       - title: "第5课 xxx"
-        url: /courses/00-IT-Primary-2-version4/Lesson5/
+        url: /courses/02-IT-Primary-2-version4/Lesson5/
       - title: "第6课 xxx"
-        url: /courses/00-IT-Primary-2-version4/Lesson6/
+        url: /courses/02-IT-Primary-2-version4/Lesson6/
       - title: "第7课 xxx"
-        url: /courses/00-IT-Primary-2-version4/Lesson7/
+        url: /courses/02-IT-Primary-2-version4/Lesson7/
       - title: "第8课 xxx"
-        url: /courses/00-IT-Primary-2-version4/Lesson8/
+        url: /courses/02-IT-Primary-2-version4/Lesson8/
       - title: "第9课 xxx"
-        url: /courses/00-IT-Primary-2-version4/Lesson9/
+        url: /courses/02-IT-Primary-2-version4/Lesson9/
       - title: "第10课 xxx"
-        url: /courses/00-IT-Primary-2-version4/Lesson10/
+        url: /courses/02-IT-Primary-2-version4/Lesson10/
       - title: "单元小结 xxx"
-        url: /courses/00-IT-Primary-2-version4/UnitSummary2/
+        url: /courses/02-IT-Primary-2-version4/UnitSummary2/
       - title: "第11课 xxx"
-        url: /courses/00-IT-Primary-2-version4/Lesson11/
+        url: /courses/02-IT-Primary-2-version4/Lesson11/
       - title: "第12课 xxx"
-        url: /courses/00-IT-Primary-2-version4/Lesson12/
+        url: /courses/02-IT-Primary-2-version4/Lesson12/
       - title: "第13课 xxx"
-        url: /courses/00-IT-Primary-2-version4/Lesson13/
+        url: /courses/02-IT-Primary-2-version4/Lesson13/
       - title: "第14课 xxx"
-        url: /courses/00-IT-Primary-2-version4/Lesson14/
+        url: /courses/02-IT-Primary-2-version4/Lesson14/
       - title: "单元小结 xxx"
-        url: /courses/00-IT-Primary-2-version4/UnitSummary3/
+        url: /courses/02-IT-Primary-2-version4/UnitSummary3/
   - title: 第3册
     children:
       - title: "第1课 xxx"
-        url: /courses/00-IT-Primary-3-version4/Lesson1/
+        url: /courses/03-IT-Primary-3-version4/Lesson1/
       - title: "第2课 xxx"
-        url: /courses/00-IT-Primary-3-version4/Lesson2/
+        url: /courses/03-IT-Primary-3-version4/Lesson2/
       - title: "第3课 xxx"
-        url: /courses/00-IT-Primary-3-version4/Lesson3/
+        url: /courses/03-IT-Primary-3-version4/Lesson3/
       - title: "第4课 xxx"
-        url: /courses/00-IT-Primary-3-version4/Lesson4/
+        url: /courses/03-IT-Primary-3-version4/Lesson4/
       - title: "单元小结 xxx"
-        url: /courses/00-IT-Primary-3-version4/UnitSummary1/
+        url: /courses/03-IT-Primary-3-version4/UnitSummary1/
       - title: "第5课 xxx"
-        url: /courses/00-IT-Primary-3-version4/Lesson5/
+        url: /courses/03-IT-Primary-3-version4/Lesson5/
       - title: "第6课 xxx"
-        url: /courses/00-IT-Primary-3-version4/Lesson6/
+        url: /courses/03-IT-Primary-3-version4/Lesson6/
       - title: "第7课 xxx"
-        url: /courses/00-IT-Primary-3-version4/Lesson7/
+        url: /courses/03-IT-Primary-3-version4/Lesson7/
       - title: "第8课 xxx"
-        url: /courses/00-IT-Primary-3-version4/Lesson8/
+        url: /courses/03-IT-Primary-3-version4/Lesson8/
       - title: "第9课 xxx"
-        url: /courses/00-IT-Primary-3-version4/Lesson9/
+        url: /courses/03-IT-Primary-3-version4/Lesson9/
       - title: "第10课 xxx"
-        url: /courses/00-IT-Primary-3-version4/Lesson10/
+        url: /courses/03-IT-Primary-3-version4/Lesson10/
       - title: "单元小结 xxx"
-        url: /courses/00-IT-Primary-3-version4/UnitSummary2/
+        url: /courses/03-IT-Primary-3-version4/UnitSummary2/
       - title: "第11课 xxx"
-        url: /courses/00-IT-Primary-3-version4/Lesson11/
+        url: /courses/03-IT-Primary-3-version4/Lesson11/
       - title: "第12课 xxx"
-        url: /courses/00-IT-Primary-3-version4/Lesson12/
+        url: /courses/03-IT-Primary-3-version4/Lesson12/
       - title: "第13课 xxx"
-        url: /courses/00-IT-Primary-3-version4/Lesson13/
+        url: /courses/03-IT-Primary-3-version4/Lesson13/
       - title: "第14课 xxx"
-        url: /courses/00-IT-Primary-3-version4/Lesson14/
+        url: /courses/03-IT-Primary-3-version4/Lesson14/
       - title: "单元小结 xxx"
-        url: /courses/00-IT-Primary-3-version4/UnitSummary3/
+        url: /courses/03-IT-Primary-3-version4/UnitSummary3/
   - title: 第4册
     children:
       - title: "第1课 xxx"
-        url: /courses/00-IT-Primary-4-version4/Lesson1/
+        url: /courses/04-IT-Primary-4-version4/Lesson1/
       - title: "第2课 xxx"
-        url: /courses/00-IT-Primary-4-version4/Lesson2/
+        url: /courses/04-IT-Primary-4-version4/Lesson2/
       - title: "第3课 xxx"
-        url: /courses/00-IT-Primary-4-version4/Lesson3/
+        url: /courses/04-IT-Primary-4-version4/Lesson3/
       - title: "第4课 xxx"
-        url: /courses/00-IT-Primary-4-version4/Lesson4/
+        url: /courses/04-IT-Primary-4-version4/Lesson4/
       - title: "单元小结 xxx"
-        url: /courses/00-IT-Primary-4-version4/UnitSummary1/
+        url: /courses/04-IT-Primary-4-version4/UnitSummary1/
       - title: "第5课 xxx"
-        url: /courses/00-IT-Primary-4-version4/Lesson5/
+        url: /courses/04-IT-Primary-4-version4/Lesson5/
       - title: "第6课 xxx"
-        url: /courses/00-IT-Primary-4-version4/Lesson6/
+        url: /courses/04-IT-Primary-4-version4/Lesson6/
       - title: "第7课 xxx"
-        url: /courses/00-IT-Primary-4-version4/Lesson7/
+        url: /courses/04-IT-Primary-4-version4/Lesson7/
       - title: "第8课 xxx"
-        url: /courses/00-IT-Primary-4-version4/Lesson8/
+        url: /courses/04-IT-Primary-4-version4/Lesson8/
       - title: "第9课 xxx"
-        url: /courses/00-IT-Primary-4-version4/Lesson9/
+        url: /courses/04-IT-Primary-4-version4/Lesson9/
       - title: "第10课 xxx"
-        url: /courses/00-IT-Primary-4-version4/Lesson10/
+        url: /courses/04-IT-Primary-4-version4/Lesson10/
       - title: "单元小结 xxx"
-        url: /courses/00-IT-Primary-4-version4/UnitSummary2/
+        url: /courses/04-IT-Primary-4-version4/UnitSummary2/
       - title: "第11课 xxx"
-        url: /courses/00-IT-Primary-4-version4/Lesson11/
+        url: /courses/04-IT-Primary-4-version4/Lesson11/
       - title: "第12课 xxx"
-        url: /courses/00-IT-Primary-4-version4/Lesson12/
+        url: /courses/04-IT-Primary-4-version4/Lesson12/
       - title: "第13课 xxx"
-        url: /courses/00-IT-Primary-4-version4/Lesson13/
+        url: /courses/04-IT-Primary-4-version4/Lesson13/
       - title: "第14课 xxx"
-        url: /courses/00-IT-Primary-4-version4/Lesson14/
+        url: /courses/04-IT-Primary-4-version4/Lesson14/
       - title: "单元小结 xxx"
-        url: /courses/00-IT-Primary-4-version4/UnitSummary3/
+        url: /courses/04-IT-Primary-4-version4/UnitSummary3/
   - title: 第5册
     children:
       - title: "第1课 xxx"
