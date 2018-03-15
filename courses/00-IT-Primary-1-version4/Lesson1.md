@@ -4,6 +4,8 @@ permalink:/courses/00-IT-Primary-1-version4/Lesson1/
 toc: true
 toc_label: "本课目录"
 toc_icon: "cog"
+sidebar:
+  nav: "ITPLevel1"
 ---
 # 第1课
 简介。。。
