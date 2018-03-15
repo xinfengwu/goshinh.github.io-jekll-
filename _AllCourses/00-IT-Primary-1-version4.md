@@ -6,7 +6,7 @@ author_profile: false
 header:
   teaser: /assets/images/500x300.png
 sidebar:
-  nav: "ITPLevel1"
+  nav: "ITPLevel"
 ---
 
 IT-Primary-1-version4
