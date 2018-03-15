@@ -1,6 +1,6 @@
 ---
 title: 第1课
-permalink:/courses/01-IT-Primary-1-version4/Lesson1/
+permalink: /mypost/
 toc: true
 toc_label: "本课目录"
 toc_icon: "cog"
