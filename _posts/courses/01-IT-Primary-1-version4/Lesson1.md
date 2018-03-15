@@ -1,5 +1,4 @@
 ---
-layout: single
 title: 第1课
 permalink: /courses/01-IT-Primary-1-version4/Lesson1/
 toc: true
@@ -8,7 +7,7 @@ toc_icon: "cog"
 sidebar:
   nav: "ITPLevel"
 ---
-# 第1课in posts
+# 第1课
 简介
 ## 第1步
 sth
