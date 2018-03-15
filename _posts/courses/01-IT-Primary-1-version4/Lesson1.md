@@ -8,7 +8,7 @@ sidebar:
   nav: "ITPLevel"
 ---
 # 第1课
-简介。。。
+简介
 ## 第1步
 sth
 ### subList
