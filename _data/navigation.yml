@@ -23,7 +23,7 @@ ITPLevel:
   - title: 第1册
     children:
       - title: "第1课 xxx"
-        url: /_posts/courses/01-IT-Primary-1-version4/2018-03-15-Lesson1.md 
+        url: /_posts/courses/01-IT-Primary-1-version4/2018-03-15-Lesson1
       - title: "第2课 xxx"
         url: /courses/01-IT-Primary-1-version4/Lesson2/
       - title: "第3课 xxx"
