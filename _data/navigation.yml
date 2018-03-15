@@ -23,7 +23,7 @@ ITPLevel1:
   - title: 第1册
     children:
       - title: "第1课"
-        url: https://goshinh.github.io/_posts/courses/00-IT-Primary-1-version4/Lesson1/
+        url: https://goshinh.github.io/courses/00-IT-Primary-1-version4/Lesson1/
       - title: "第2课"
         url: /docs/structure/
       - title: "第3课"
