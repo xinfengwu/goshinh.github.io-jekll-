@@ -250,18 +250,6 @@ collections:
   AllCourses:
     output: true
     permalink: /:collection/:path/
-  CLangugeSoEasy:
-    relative_directory: 'courses/CLangugeSoEasy'
-    output: true
-    permalink: /:collection/:path/
-    
-  clanguge_for_pupils:
-    output: true
-    permalink: /:collection/:path/
-  testcollections:
-    output: true
-    permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -291,29 +279,3 @@ defaults:
       layout: single
       author_profile: true
       share: false
-  # _CLangugeSoEasy
-  - scope:
-      path: ""
-      type: CLangugeSoEasy
-    values:
-      layout: single
-      author_profile: true
-      share: false
-  # _clanguge_for_pupils
-  - scope:
-      path: ""
-      #collections_dir: courses
-      type: clanguge_for_pupils
-    values:
-      layout: single
-      author_profile: true
-      share: false
-  # _testcollections
-  - scope:
-      path: ""
-      type: testcollections
-    values:
-      layout: single
-      author_profile: true
-      share: false
-
