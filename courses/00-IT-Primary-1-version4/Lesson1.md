@@ -1,6 +1,14 @@
 ---
 title: 第1课
 permalink:/courses/00-IT-Primary-1-version4/Lesson1/
+toc: true
+toc_label: "本课目录"
+toc_icon: "cog"
 ---
-简介：
-courses/00-IT-Primary-1-version4/Lesson1.md
+# 第1课
+简介。。。
+## 第1步
+sth
+## 第2步
+sth
+## 第3步
