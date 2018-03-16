@@ -26,6 +26,7 @@ ITPLevel-1:
   - title: 第1册-小学信息技术
     children:
       - title: "第1单元 制作班级课程表"
+        url: /courses/11-IT-Primary-1-version4/Unit1Start/
       - title: "第1课 xxx"
         url: /courses/11-IT-Primary-1-version4/Lesson1/
       - title: "第2课 xxx"
@@ -35,7 +36,7 @@ ITPLevel-1:
       - title: "第4课 xxx"
         url: /courses/11-IT-Primary-1-version4/Lesson4/
       - title: "单元小结 xxx"
-        url: /courses/11-IT-Primary-1-version4/UnitSummary1/
+        url: /courses/11-IT-Primary-1-version4/Unit1Summary/
       - title: "第5课 xxx"
         url: /courses/11-IT-Primary-1-version4/Lesson5/
       - title: "第6课 xxx"
@@ -49,7 +50,7 @@ ITPLevel-1:
       - title: "第10课 xxx"
         url: /courses/11-IT-Primary-1-version4/Lesson10/
       - title: "单元小结 xxx"
-        url: /courses/11-IT-Primary-1-version4/UnitSummary2/
+        url: /courses/11-IT-Primary-1-version4/Unit2Summary/
       - title: "第11课 xxx"
         url: /courses/11-IT-Primary-1-version4/Lesson11/
       - title: "第12课 xxx"
@@ -59,7 +60,7 @@ ITPLevel-1:
       - title: "第14课 xxx"
         url: /courses/11-IT-Primary-1-version4/Lesson14/
       - title: "单元小结 xxx"
-        url: /courses/11-IT-Primary-1-version4/UnitSummary3/
+        url: /courses/11-IT-Primary-1-version4/Unit3Summary/
 ITPLevel-2:
   - title: 第2册-小学信息技术
     children:
@@ -72,7 +73,7 @@ ITPLevel-2:
       - title: "第4课 xxx"
         url: /courses/12-IT-Primary-2-version4/Lesson4/
       - title: "单元小结 xxx"
-        url: /courses/12-IT-Primary-2-version4/UnitSummary1/
+        url: /courses/12-IT-Primary-2-version4/Unit1Summary/
       - title: "第5课 xxx"
         url: /courses/12-IT-Primary-2-version4/Lesson5/
       - title: "第6课 xxx"
@@ -86,7 +87,7 @@ ITPLevel-2:
       - title: "第10课 xxx"
         url: /courses/12-IT-Primary-2-version4/Lesson10/
       - title: "单元小结 xxx"
-        url: /courses/12-IT-Primary-2-version4/UnitSummary2/
+        url: /courses/12-IT-Primary-2-version4/Unit2Summary/
       - title: "第11课 xxx"
         url: /courses/12-IT-Primary-2-version4/Lesson11/
       - title: "第12课 xxx"
@@ -96,7 +97,7 @@ ITPLevel-2:
       - title: "第14课 xxx"
         url: /courses/12-IT-Primary-2-version4/Lesson14/
       - title: "单元小结 xxx"
-        url: /courses/12-IT-Primary-2-version4/UnitSummary3/
+        url: /courses/12-IT-Primary-2-version4/Unit3Summary/
 ITPLevel-3:
   - title: 第3册-小学信息技术
     children:
@@ -109,7 +110,7 @@ ITPLevel-3:
       - title: "第4课 xxx"
         url: /courses/13-IT-Primary-3-version4/Lesson4/
       - title: "单元小结 xxx"
-        url: /courses/13-IT-Primary-3-version4/UnitSummary1/
+        url: /courses/13-IT-Primary-3-version4/Unit1Summary/
       - title: "第5课 xxx"
         url: /courses/13-IT-Primary-3-version4/Lesson5/
       - title: "第6课 xxx"
@@ -123,7 +124,7 @@ ITPLevel-3:
       - title: "第10课 xxx"
         url: /courses/13-IT-Primary-3-version4/Lesson10/
       - title: "单元小结 xxx"
-        url: /courses/13-IT-Primary-3-version4/UnitSummary2/
+        url: /courses/13-IT-Primary-3-version4/Unit2Summary/
       - title: "第11课 xxx"
         url: /courses/13-IT-Primary-3-version4/Lesson11/
       - title: "第12课 xxx"
@@ -133,7 +134,7 @@ ITPLevel-3:
       - title: "第14课 xxx"
         url: /courses/13-IT-Primary-3-version4/Lesson14/
       - title: "单元小结 xxx"
-        url: /courses/13-IT-Primary-3-version4/UnitSummary3/
+        url: /courses/13-IT-Primary-3-version4/Unit4Summary/
 ITPLevel-4:
   - title: 第4册-小学信息技术
     children:
@@ -146,7 +147,7 @@ ITPLevel-4:
       - title: "第4课 完善班级课程表"
         url: /courses/14-IT-Primary-4-version4/Lesson4/
       - title: "单元小结"
-        url: /courses/14-IT-Primary-4-version4/UnitSummary1/
+        url: /courses/14-IT-Primary-4-version4/Unit1Summary/
       - title: "第5课 春季旅游邀好友"
         url: /courses/14-IT-Primary-4-version4/Lesson5/
       - title: "第6课 聊聊春游定方案"
@@ -156,7 +157,7 @@ ITPLevel-4:
       - title: "第8课 分享见闻用邮件"
         url: /courses/14-IT-Primary-4-version4/Lesson8/
       - title: "单元小结"
-        url: /courses/14-IT-Primary-4-version4/UnitSummary2/
+        url: /courses/14-IT-Primary-4-version4/Unit2Summary/
       - title: "第9课 小小蜗牛跑得快"
         url: /courses/14-IT-Primary-4-version4/Lesson9/
       - title: "第10课 小猫拜访好朋友"
@@ -170,7 +171,7 @@ ITPLevel-4:
       - title: "第14课 小小鼹鼠钻地道"
         url: /courses/14-IT-Primary-4-version4/Lesson14/
       - title: "单元小结"
-        url: /courses/14-IT-Primary-4-version4/UnitSummary3/
+        url: /courses/14-IT-Primary-4-version4/Unit3Summary/
 ITPLevel-5:
   - title: 第5册-小学信息技术
     children:
@@ -183,7 +184,7 @@ ITPLevel-5:
       - title: "第4课 xxx"
         url: /courses/15-IT-Primary-5-version4/Lesson4/
       - title: "单元小结 xxx"
-        url: /courses/15-IT-Primary-5-version4/UnitSummary1/
+        url: /courses/15-IT-Primary-5-version4/Unit1Summary/
       - title: "第5课 xxx"
         url: /courses/15-IT-Primary-5-version4/Lesson5/
       - title: "第6课 xxx"
@@ -197,7 +198,7 @@ ITPLevel-5:
       - title: "第10课 xxx"
         url: /courses/15-IT-Primary-5-version4/Lesson10/
       - title: "单元小结 xxx"
-        url: /courses/15-IT-Primary-5-version4/UnitSummary2/
+        url: /courses/15-IT-Primary-5-version4/Unit2Summary/
       - title: "第11课 xxx"
         url: /courses/15-IT-Primary-5-version4/Lesson11/
       - title: "第12课 xxx"
@@ -207,7 +208,7 @@ ITPLevel-5:
       - title: "第14课 xxx"
         url: /courses/15-IT-Primary-5-version4/Lesson14/
       - title: "单元小结 xxx"
-        url: /courses/15-IT-Primary-5-version4/UnitSummary3/
+        url: /courses/15-IT-Primary-5-version4/Unit3Summary/
 ITPLevel-6:
   - title: 第6册-小学信息技术
     children:
@@ -220,7 +221,7 @@ ITPLevel-6:
       - title: "第4课 xxx"
         url: /courses/16-IT-Primary-6-version4/Lesson4/
       - title: "单元小结 xxx"
-        url: /courses/16-IT-Primary-6-version4/UnitSummary1/
+        url: /courses/16-IT-Primary-6-version4/Unit1Summary/
       - title: "第5课 xxx"
         url: /courses/16-IT-Primary-6-version4/Lesson5/
       - title: "第6课 xxx"
@@ -234,7 +235,7 @@ ITPLevel-6:
       - title: "第10课 xxx"
         url: /courses/16-IT-Primary-6-version4/Lesson10/
       - title: "单元小结 xxx"
-        url: /courses/16-IT-Primary-6-version4/UnitSummary2/
+        url: /courses/16-IT-Primary-6-version4/Unit2Summary/
       - title: "第11课 xxx"
         url: /courses/16-IT-Primary-6-version4/Lesson11/
       - title: "第12课 xxx"
@@ -244,7 +245,7 @@ ITPLevel-6:
       - title: "第14课 xxx"
         url: /courses/16-IT-Primary-6-version4/Lesson14/
       - title: "单元小结 xxx"
-        url: /courses/16-IT-Primary-6-version4/UnitSummary3/
+        url: /courses/16-IT-Primary-6-version4/Unit3Summary/
 ITPLevel-7:
   - title: 第7册-小学信息技术
     children:
@@ -257,7 +258,7 @@ ITPLevel-7:
       - title: "第4课 xxx"
         url: /courses/17-IT-Primary-7-version4/Lesson4/
       - title: "单元小结 xxx"
-        url: /courses/17-IT-Primary-7-version4/UnitSummary1/
+        url: /courses/17-IT-Primary-7-version4/Unit1Summary/
       - title: "第5课 xxx"
         url: /courses/17-IT-Primary-7-version4/Lesson5/
       - title: "第6课 xxx"
@@ -271,7 +272,7 @@ ITPLevel-7:
       - title: "第10课 xxx"
         url: /courses/17-IT-Primary-7-version4/Lesson10/
       - title: "单元小结 xxx"
-        url: /courses/17-IT-Primary-7-version4/UnitSummary2/
+        url: /courses/17-IT-Primary-7-version4/Unit2Summary/
       - title: "第11课 xxx"
         url: /courses/17-IT-Primary-7-version4/Lesson11/
       - title: "第12课 xxx"
@@ -281,7 +282,7 @@ ITPLevel-7:
       - title: "第14课 xxx"
         url: /courses/17-IT-Primary-7-version4/Lesson14/
       - title: "单元小结 xxx"
-        url: /courses/17-IT-Primary-7-version4/UnitSummary3/
+        url: /courses/17-IT-Primary-7-version4/Unit3Summary/
 ITPLevel-8:
   - title: 第8册-小学信息技术
     children:
@@ -294,7 +295,7 @@ ITPLevel-8:
       - title: "第4课 xxx"
         url: /courses/18-IT-Primary-8-version4/Lesson4/
       - title: "单元小结 xxx"
-        url: /courses/18-IT-Primary-8-version4/UnitSummary1/
+        url: /courses/18-IT-Primary-8-version4/Unit1Summary/
       - title: "第5课 xxx"
         url: /courses/18-IT-Primary-8-version4/Lesson5/
       - title: "第6课 xxx"
@@ -308,7 +309,7 @@ ITPLevel-8:
       - title: "第10课 xxx"
         url: /courses/18-IT-Primary-8-version4/Lesson10/
       - title: "单元小结 xxx"
-        url: /courses/18-IT-Primary-8-version4/UnitSummary2/
+        url: /courses/18-IT-Primary-8-version4/Unit2Summary/
       - title: "第11课 xxx"
         url: /courses/18-IT-Primary-8-version4/Lesson11/
       - title: "第12课 xxx"
@@ -318,4 +319,4 @@ ITPLevel-8:
       - title: "第14课 xxx"
         url: /courses/18-IT-Primary-8-version4/Lesson14/
       - title: "单元小结 xxx"
-        url: /courses/18-IT-Primary-8-version4/UnitSummary3/
+        url: /courses/18-IT-Primary-8-version4/Unit3Summary/
