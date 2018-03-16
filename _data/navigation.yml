@@ -26,6 +26,7 @@ ITPLevel-1:
   - title: 第1册-小学信息技术
     children:
       - title: "第1单元 制作班级课程表"
+        url: “”
       - title: "第1课 xxx"
         url: /courses/11-IT-Primary-1-version4/Lesson1/
       - title: "第2课 xxx"
