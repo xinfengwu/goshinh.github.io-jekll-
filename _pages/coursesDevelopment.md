@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "所创课程列表"
+title: "课程列表"
 permalink: /courses-development/
 author_profile: true
 ---
