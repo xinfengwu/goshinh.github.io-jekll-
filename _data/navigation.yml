@@ -16,7 +16,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 ITPLevel-1:
-  - title: 第1册|小学信息技术
+  - title: 第1册-小学信息技术
     children:
       - title: "第1课 xxx"
         url: /courses/01-IT-Primary-1-version4/Lesson1/
@@ -53,7 +53,7 @@ ITPLevel-1:
       - title: "单元小结 xxx"
         url: /courses/01-IT-Primary-1-version4/UnitSummary3/
 ITPLevel-2:
-  - title: 第2册|小学信息技术
+  - title: 第2册-小学信息技术
     children:
       - title: "第1课 xxx"
         url: /courses/02-IT-Primary-2-version4/Lesson1/
@@ -90,7 +90,7 @@ ITPLevel-2:
       - title: "单元小结 xxx"
         url: /courses/02-IT-Primary-2-version4/UnitSummary3/
 ITPLevel-3:
-  - title: 第3册|小学信息技术
+  - title: 第3册-小学信息技术
     children:
       - title: "第1课 xxx"
         url: /courses/03-IT-Primary-3-version4/Lesson1/
@@ -127,7 +127,7 @@ ITPLevel-3:
       - title: "单元小结 xxx"
         url: /courses/03-IT-Primary-3-version4/UnitSummary3/
 ITPLevel-4:
-  - title: 第4册|小学信息技术
+  - title: 第4册-小学信息技术
     children:
       - title: "第1课 xxx"
         url: /courses/04-IT-Primary-4-version4/Lesson1/
@@ -164,7 +164,7 @@ ITPLevel-4:
       - title: "单元小结 xxx"
         url: /courses/04-IT-Primary-4-version4/UnitSummary3/
 ITPLevel-5:
-  - title: 第5册|小学信息技术
+  - title: 第5册-小学信息技术
     children:
       - title: "第1课 xxx"
         url: /courses/05-IT-Primary-5-version4/Lesson1/
@@ -201,7 +201,7 @@ ITPLevel-5:
       - title: "单元小结 xxx"
         url: /courses/05-IT-Primary-5-version4/UnitSummary3/
 ITPLevel-6:
-  - title: 第6册|小学信息技术
+  - title: 第6册-小学信息技术
     children:
       - title: "第1课 xxx"
         url: /courses/06-IT-Primary-6-version4/Lesson1/
@@ -238,7 +238,7 @@ ITPLevel-6:
       - title: "单元小结 xxx"
         url: /courses/06-IT-Primary-6-version4/UnitSummary3/
 ITPLevel-7:
-  - title: 第7册|小学信息技术
+  - title: 第7册-小学信息技术
     children:
       - title: "第1课 xxx"
         url: /courses/07-IT-Primary-7-version4/Lesson1/
@@ -275,7 +275,7 @@ ITPLevel-7:
       - title: "单元小结 xxx"
         url: /courses/07-IT-Primary-7-version4/UnitSummary3/
 ITPLevel-8:
-  - title: 第8册|小学信息技术
+  - title: 第8册-小学信息技术
     children:
       - title: "第1课 xxx"
         url: /courses/08-IT-Primary-8-version4/Lesson1/
