@@ -138,6 +138,8 @@ ITPLevel-3:
 ITPLevel-4:
   - title: 第4册-小学信息技术
     children:
+      - title: "第1单元 制作班级课程表"
+        url: /courses/14-IT-Primary-4-version4/Unit1Start/
       - title: "第1课 建立班级课程表"
         url: /courses/14-IT-Primary-4-version4/Lesson1/
       - title: "第2课 编辑班级课程表"
@@ -148,6 +150,8 @@ ITPLevel-4:
         url: /courses/14-IT-Primary-4-version4/Lesson4/
       - title: "单元小结"
         url: /courses/14-IT-Primary-4-version4/Unit1Summary/
+      - title: "第2单元 网络交流真便捷"
+        url: /courses/14-IT-Primary-4-version4/Unit2Start/
       - title: "第5课 春季旅游邀好友"
         url: /courses/14-IT-Primary-4-version4/Lesson5/
       - title: "第6课 聊聊春游定方案"
@@ -158,6 +162,8 @@ ITPLevel-4:
         url: /courses/14-IT-Primary-4-version4/Lesson8/
       - title: "单元小结"
         url: /courses/14-IT-Primary-4-version4/Unit2Summary/
+      - title: "第3单元 创意编程乐趣多"
+        url: /courses/14-IT-Primary-4-version4/Unit3Start/
       - title: "第9课 小小蜗牛跑得快"
         url: /courses/14-IT-Primary-4-version4/Lesson9/
       - title: "第10课 小猫拜访好朋友"
