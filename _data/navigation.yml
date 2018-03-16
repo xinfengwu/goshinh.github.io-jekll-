@@ -19,9 +19,7 @@ OKC-version1:
   - title: 第1单元-xxx
     children:
       - title: "第1课 xxx"
-        children:
-          - title: "第1节 xxx"
-            url: /courses/OKC-version1/Lesson1/
+        url: /courses/OKC-version1/Lesson1/
 ITPLevel-1:
   - title: 第1册-小学信息技术
     children:
