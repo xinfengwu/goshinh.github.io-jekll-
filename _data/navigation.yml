@@ -16,7 +16,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 OKC-version1:
-  - title: 1单元-xxx
+  - title: 第1单元-xxx
     children:
       - title: "第1课 xxx"
         url: /courses/OKC-version1/Lesson1/
