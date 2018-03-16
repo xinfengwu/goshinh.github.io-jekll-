@@ -136,39 +136,39 @@ ITPLevel-3:
 ITPLevel-4:
   - title: 第4册-小学信息技术
     children:
-      - title: "第1课 xxx"
+      - title: "第1课 建立班级课程表"
         url: /courses/14-IT-Primary-4-version4/Lesson1/
-      - title: "第2课 xxx"
+      - title: "第2课 编辑班级课程表"
         url: /courses/14-IT-Primary-4-version4/Lesson2/
-      - title: "第3课 xxx"
+      - title: "第3课 美化班级课程表"
         url: /courses/14-IT-Primary-4-version4/Lesson3/
-      - title: "第4课 xxx"
+      - title: "第4课 完善班级课程表"
         url: /courses/14-IT-Primary-4-version4/Lesson4/
-      - title: "单元小结 xxx"
+      - title: "单元小结"
         url: /courses/14-IT-Primary-4-version4/UnitSummary1/
-      - title: "第5课 xxx"
+      - title: "第5课 春季旅游邀好友"
         url: /courses/14-IT-Primary-4-version4/Lesson5/
-      - title: "第6课 xxx"
+      - title: "第6课 聊聊春游定方案"
         url: /courses/14-IT-Primary-4-version4/Lesson6/
-      - title: "第7课 xxx"
+      - title: "第7课 精彩瞬间群共享"
         url: /courses/14-IT-Primary-4-version4/Lesson7/
-      - title: "第8课 xxx"
+      - title: "第8课 分享见闻用邮件"
         url: /courses/14-IT-Primary-4-version4/Lesson8/
-      - title: "第9课 xxx"
-        url: /courses/14-IT-Primary-4-version4/Lesson9/
-      - title: "第10课 xxx"
-        url: /courses/14-IT-Primary-4-version4/Lesson10/
-      - title: "单元小结 xxx"
+      - title: "单元小结"
         url: /courses/14-IT-Primary-4-version4/UnitSummary2/
-      - title: "第11课 xxx"
+      - title: "第9课 小小蜗牛跑得快"
+        url: /courses/14-IT-Primary-4-version4/Lesson9/
+      - title: "第10课 小猫拜访好朋友"
+        url: /courses/14-IT-Primary-4-version4/Lesson10/
+      - title: "第11课 小狗参观猫咪屋"
         url: /courses/14-IT-Primary-4-version4/Lesson11/
-      - title: "第12课 xxx"
+      - title: "第12课 鱼儿水中自在游"
         url: /courses/14-IT-Primary-4-version4/Lesson12/
-      - title: "第13课 xxx"
+      - title: "第13课 海龟鱼儿水中戏"
         url: /courses/14-IT-Primary-4-version4/Lesson13/
-      - title: "第14课 xxx"
+      - title: "第14课 小小鼹鼠钻地道"
         url: /courses/14-IT-Primary-4-version4/Lesson14/
-      - title: "单元小结 xxx"
+      - title: "单元小结"
         url: /courses/14-IT-Primary-4-version4/UnitSummary3/
 ITPLevel-5:
   - title: 第5册-小学信息技术
