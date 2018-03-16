@@ -15,7 +15,7 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-ITPLevel:
+ITPLevel-1:
   - title: 第1册
     children:
       - title: "第1课 xxx"
