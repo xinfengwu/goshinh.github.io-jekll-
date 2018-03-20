@@ -8,8 +8,8 @@ toc_icon: "cog"
 sidebar:
   nav: "ITPLevel-4"
 layouts_gallery:
-  - url: /courses/ITPX/x.x.png
-    image_path: /courses/ITPX/x.x.png
+  - url: /courses/ITP4/x.x.png
+    image_path: /courses/ITP4/x.x.png
     alt: "本课作品展示"
 ---
 ## :cinema:[看课程视频](http://study.163.com)
