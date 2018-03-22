@@ -13,8 +13,8 @@ layouts_gallery:
     alt: "本课作品展示"
 ---
 ## :cinema:[看课程视频](http://study.163.com)
-## :information_source:本课介绍以下内容
+## :mega:本课介绍以下内容
 
-## :top:作品展示
+## :rainbow:作品展示
 {% include gallery id="layouts_gallery" caption="四（1）班课程表" %}
 ## :new:学一学
