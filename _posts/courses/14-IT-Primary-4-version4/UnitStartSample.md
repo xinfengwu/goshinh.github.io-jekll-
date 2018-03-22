@@ -1,5 +1,5 @@
 ---
-title: 第单元 
+title: 第X单元 
 permalink: /courses/14-IT-Primary-4-version4/UnitXStart/
 author_profile: false
 created_at: 2018-03-22
@@ -12,13 +12,13 @@ sidebar:
 layouts_gallery:
   - url: /assets/images/500x300.png
     image_path: /assets/images/500x300.png
-    alt: "第1单元作品展示"
+    alt: "第X单元作品展示"
   - url: /assets/images/500x300.png
     image_path: /assets/images/500x300.png
-    alt: "第1单元作品展示"
+    alt: "第X单元作品展示"
   - url: /assets/images/500x300.png
     image_path: /assets/images/500x300.png
-    alt: "第1单元作品展示"
+    alt: "第X单元作品展示"
 ---
 
 ## 本单元介绍以下内容
