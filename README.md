@@ -1,1 +1,0 @@
-# goshinh.github.io
