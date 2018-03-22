@@ -17,4 +17,4 @@ layouts_gallery:
 
 ## :rainbow:作品展示
 {% include gallery id="layouts_gallery" caption="四（1）班课程表" %}
-## :new:学一学
+## :battery:学一学
