@@ -21,6 +21,7 @@ layouts_gallery:
     alt: "第X单元作品展示"
 ---
 
+## :cinema:[看课程视频](http://study.163.com)
 ## 本单元介绍以下内容
 
 ## 课前准备
