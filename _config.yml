@@ -9,9 +9,9 @@ minimal_mistakes_skin    : "sunrise"  #"default","air", "aqua", "contrast","dirt
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "IT达摩院"
+title                    : "IT达摩"
 title_separator          : "|"
-name                     : "IT达摩院"
+name                     : "IT达摩"
 description              : "一个IT爱好者分享的网站"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
