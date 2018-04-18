@@ -2,8 +2,8 @@
 title: 第X单元 
 permalink: /courses/14-IT-Primary-4-version4/UnitXStart/
 author_profile: false
-created_at: 2018-03-22
-last_modified_at: 2018-03-22
+created_at: 
+last_modified_at: 
 toc: true
 toc_label: "本页目录"
 toc_icon: "cog"
@@ -28,3 +28,4 @@ layouts_gallery:
   
 ## 作品展示
 {% include gallery id="layouts_gallery" caption="作品展示区" %}
+![](/courses/ITP4/)
