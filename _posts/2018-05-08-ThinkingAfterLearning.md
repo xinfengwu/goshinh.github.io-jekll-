@@ -1,6 +1,6 @@
 ---
 title: 参加“庐江县2018年度中小学教师信息技术应用管理能力提升培训”培训后的小结
-permalink: /courses/14-IT-Primary-4-version4/Lesson1/
+permalink: /post/参加“庐江县2018年度中小学教师信息技术应用管理能力提升培训”培训后的小结
 author_profile: false
 ---
 # 参加“庐江县2018年度中小学教师信息技术应用管理能力提升培训”培训后的小结
