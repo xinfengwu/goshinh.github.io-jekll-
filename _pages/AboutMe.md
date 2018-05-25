@@ -5,7 +5,7 @@ permalink: /aboutme/
 ## 我的职场目标
 我是一名信息技术老师，成为一流的信息技术老师是我毕生为之奋斗的目标。
 
-## 我的网站：www.itdamao.org
+## 我的网站：www.itdamo.org
 
 ## 我喜欢的
 
